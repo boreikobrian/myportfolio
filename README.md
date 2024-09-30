@@ -1,2 +1,2 @@
 # myportfolio
-My personal portfolio to put muy
+My personal portfolio
